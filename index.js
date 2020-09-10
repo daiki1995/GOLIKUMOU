@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState,useEffect} from 'react';
 import ReactDOM from 'react-dom';
 //import './front.css';
 import App from './front/App.js';
