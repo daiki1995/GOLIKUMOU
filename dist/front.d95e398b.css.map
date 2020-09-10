@@ -1,0 +1,1 @@
+{"version":3,"sources":["front.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"front.d95e398b.css","sourceRoot":"..","sourcesContent":[".row{\n    display:flex;\n    flex-direction: row;\n}"]}
